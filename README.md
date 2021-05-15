@@ -5,7 +5,7 @@
 - 📫 How to reach me:
   - Email: mohannatrd@gmail.com
   - Telegram: https://t.me/mohannatd
-  - Linkedin: https://www.linkedin.com/in/mohanna-torkashvand-72b76b20b
+  - Linkedin: https://www.linkedin.com/in/mohanna-torkashvand
 
 <!---
 mohannatd/mohannatd is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
